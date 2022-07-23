@@ -1,2 +1,2 @@
-# tahble
+# table
 web site table
